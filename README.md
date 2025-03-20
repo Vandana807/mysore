@@ -1,0 +1,2 @@
+# mysore
+mysore palace.html
